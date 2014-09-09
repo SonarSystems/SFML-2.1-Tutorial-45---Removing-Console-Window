@@ -1,4 +1,4 @@
-SFML-2.1-Tutorial-45---Removing-Console-Window
+SFML 2.1 Tutorial 45 - Removing Console Window
 ==============================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/cGXlkOJ6SzQ
